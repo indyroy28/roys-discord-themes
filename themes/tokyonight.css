@@ -2,7 +2,7 @@
 
 /* Tokyo Night */
 .theme-dark {
-    --accent-color: #1F202D !important;
+    --accent-color: #acaec9 !important;
     --background-1: #1a1b26 !important;
     --background-2: #171722 !important;
     --border-color: #1a1b26 !important;
@@ -12,13 +12,13 @@
     --background-modifier-active: #282a3d !important;
     --text-normal: var(--accent-color) !important;
     --text-positive: #6ee1b6 !important;
-    --text-muted: #926767 !important;
+    --text-muted: #353535 !important;
     --text-link: #fee5e5 !important;
-    --settings-icon-color: #be8686 !important;
+    --settings-icon-color: #a0a0a0 !important;
     --tab-selected: #1D1E29 !important;
-    --switch: #523939 !important;
+    --switch: #1f1a35 !important;
     --button-background: #1D1E29 !important;
-    --button-background-hover: #473232 !important;
+    --button-background-hover: #222031 !important;
     --button-background-active: #674949 !important;
     --button-accent-hover: #ffcbd0 !important;
     --button-accent-active: #fc8282 !important;
